@@ -50,6 +50,9 @@ traffic-detection-yolov8/
 │── notebooks/
 │     └── traffic_detection_yolov8.ipynb
 │
+│── src/
+│     └── traffic_detection.py
+│
 │── outputs/
 │     └── output_video.mp4
 │
