@@ -26,6 +26,8 @@ A deep learning-based traffic monitoring system built using **Ultralytics YOLOv8
 ## 📸 Results
 
 <img width="1919" height="1079" alt="Screenshot 2026-04-03 005148" src="https://github.com/user-attachments/assets/77eec914-c5eb-439b-98f5-f0a849c4f3ff" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-03 011050" src="https://github.com/user-attachments/assets/7c7bce41-797e-4607-9336-7a97dc6b9b86" />
+
 
 
 ---
