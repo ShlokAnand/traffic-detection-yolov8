@@ -22,11 +22,11 @@ A deep learning-based traffic monitoring system built using **Ultralytics YOLOv8
 * Backend: PyTorch
 
 ---
-## 🎥 Demo
+## 🎥 Real-Time Traffic Detection Demo
 
-![Traffic Demo](outputs/demo.gif)
+![Traffic Demo](Outputs/demo.gif)
 
-👉 [Watch Full Video](outputs/1.mp4)
+👉 [Watch Full Video](Outputs/1.mp4)
 
 ## 📸 Results
 
